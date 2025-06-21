@@ -1,4 +1,4 @@
-# Dự báo tiêu thụ điện năng (Nhóm 1 - Lớp 64 TTNT2)
+# Dự báo tiêu thụ điện năng (Nhóm 1 - Lớp 64TTNT2)
 
 ## Giới thiệu
 

@@ -1,4 +1,4 @@
-# Dự báo tiêu thụ điện năng (Nhóm 1 - Lớp 64 TTNT2)
+# Dự báo tiêu thụ điện năng (Nhóm 1 - Lớp 64TTNT2)
 
 ## Giới thiệu
 
@@ -68,13 +68,4 @@ Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Househo
 
    - Kết quả dự báo, biểu đồ so sánh và các chỉ số đánh giá (MSE, MAE, RMSE, R²) được lưu trong thư mục `images/`.
    - Trọng số và mô hình học được lưu trong `weights/`.
-
-## Liên hệ
-
-- **Nhóm 1** - Lớp 64 TTNT2
-- Email liên hệ: `nthnguynn@gmail.com` (Leader: Nguyễn Thảo)
-
-## Giấy phép
-
-Dự án được phát hành theo giấy phép MIT. Xem file `LICENSE` để biết chi tiết.
 

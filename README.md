@@ -6,6 +6,8 @@ Dự án nhằm xây dựng và đánh giá các mô hình dự báo tiêu thụ
 
 - **LSTM (Long Short-Term Memory)**: mạng nơ-ron hồi quy dài-ngắn hạn.
 - **Transformer**: mô hình cơ chế tự chú ý (self-attention).
+- **GRU**
+- **TimeNet**
 
 Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Household Electric Power Consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption), đã làm sạch và chuẩn hóa.
 

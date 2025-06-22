@@ -9,6 +9,10 @@ Dự án nhằm xây dựng và đánh giá các mô hình dự báo tiêu thụ
 
 Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Household Electric Power Consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption), đã làm sạch và chuẩn hóa.
 
+## Nguồn dataset
+- [Data thô](https://drive.google.com/drive/folders/18WCjjPg5-utygi88xtnSJt_oYm--GmzD?usp=sharing)
+- [Data clean](https://drive.google.com/file/d/1pyba1vkSOhfM4lXCJ7sH0DHp0IXy4DMM/view?usp=drive_link)
+
 ## Cấu trúc thư mục
 
 ```

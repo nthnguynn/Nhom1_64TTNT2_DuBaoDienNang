@@ -74,4 +74,7 @@ Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Househo
 
    - Kết quả dự báo, biểu đồ so sánh và các chỉ số đánh giá (MSE, MAE) được lưu trong thư mục `images/`.
    - Trọng số và mô hình học được lưu trong `weights/`.
+  
+## Cam kết
 
+Nhóm cam kết đây là sản phẩm do nhóm tự thực hiện. Quá trình làm việc có tham khảo một số tài liệu và mã nguồn open–source để học hỏi, nhưng tất cả ý tưởng, thiết kế và mã nguồn đã được nhóm nghiên cứu, hiểu rõ và tự tay triển khai.

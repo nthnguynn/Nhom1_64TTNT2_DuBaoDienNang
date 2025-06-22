@@ -77,4 +77,6 @@ Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Househo
   
 ## Cam kết
 
-Nhóm cam kết đây là sản phẩm do nhóm tự thực hiện. Quá trình làm việc có tham khảo một số tài liệu và mã nguồn open–source để học hỏi, nhưng tất cả ý tưởng, thiết kế và mã nguồn đã được nhóm nghiên cứu, hiểu rõ và tự tay triển khai.
+Nhóm cam kết đây là sản phẩm do nhóm tự thực hiện. Quá trình làm việc có tham khảo một số tài liệu và mã nguồn open–source để học hỏi, nhưng tất cả ý tưởng, thiết kế và mã nguồn đã được nhóm nghiên cứu, hiểu rõ và tự tay triển khai. 
+
+**Cảm ơn thầy cô và các bạn đã ghé thăm! Chúc mọi người có một ngày tốt lành.**

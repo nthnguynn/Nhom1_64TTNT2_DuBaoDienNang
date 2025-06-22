@@ -72,6 +72,6 @@ Dữ liệu gốc được thu thập từ tập dữ liệu [Individual Househo
 
 4. **Kết quả**:
 
-   - Kết quả dự báo, biểu đồ so sánh và các chỉ số đánh giá (MSE, MAE, RMSE, R²) được lưu trong thư mục `images/`.
+   - Kết quả dự báo, biểu đồ so sánh và các chỉ số đánh giá (MSE, MAE) được lưu trong thư mục `images/`.
    - Trọng số và mô hình học được lưu trong `weights/`.
 
